@@ -2,7 +2,7 @@
 
 ### Day 0: December 29, 2022 
 
-**Today's Progress**: Mempersiapkan apa yang akan dipelajari untuk esok hari. Sumber materi dari FreeCodeCamp dari materi paling pertama.
+**Today's Progress**: Mempersiapkan apa yang akan dipelajari untuk esok hari. Sumber materi dari FreeCodeCamp dari materi paling pertama. Update github 100-days-of-code.
 
 **Thoughts:** Saya sangat bersemangat untuk segera memulai perjalanan saya di dunia programming.
 
