@@ -8,6 +8,10 @@
 
 **Link to work:** -
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1: December 30, 2022 
+
+**Today's Progress**: Mulai mempelajari Responsive Web Design dari HTML terlebih dahulu dengan membuat web sederhana yang menampilkan photo kucing. Sumber materi berasal dari FreeCodeCamp.org.
+
+**Thoughts:** Hari pertama terasa cukup berbeda dan agak kurang bersemangat, fokus terbelah. Namun, pada akhirnya mampu hingga menyelesaikan satu course sederhana.
+
+**Link to work:** -
