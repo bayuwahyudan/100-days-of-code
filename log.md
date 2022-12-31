@@ -15,3 +15,11 @@
 **Thoughts:** Hari pertama terasa cukup berbeda dan agak kurang bersemangat, fokus terbelah. Namun, pada akhirnya mampu hingga menyelesaikan satu course sederhana.
 
 **Link to work:** -
+
+### Day 2: December 31, 2022 
+
+**Today's Progress**: Mulai mempelajari CSS dasar, tapi tidak banyak belajar pada hari ini.
+
+**Thoughts:** Terasa kurang bersemnagat hari ini, mood sangat kacau.
+
+**Link to work:** -
