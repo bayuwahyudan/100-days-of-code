@@ -23,3 +23,11 @@
 **Thoughts:** Terasa kurang bersemnagat hari ini, mood sangat kacau.
 
 **Link to work:** -
+
+### Day 3: january 1, 2023 
+
+**Today's Progress**: Melanjutkan belajar CSS, dengan mencoba membuat Cafe Menu tutorial oleh freeCodeCamp.
+
+**Thoughts:** Lebih santai hari ini, sungguh bersyukur bisa menyempatkan belajar pada hari ini.
+
+**Link to work:** -
