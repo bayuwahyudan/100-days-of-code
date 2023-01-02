@@ -31,3 +31,11 @@
 **Thoughts:** Lebih santai hari ini, sungguh bersyukur bisa menyempatkan belajar pada hari ini.
 
 **Link to work:** -
+
+### Day 3: january 2, 2023 
+
+**Today's Progress**: Melanjutkan belajar CSS, dengan mencoba membuat Cafe Menu tutorial oleh freeCodeCamp. kali ini menyelesaikannya hingga mnejadi web utuh. Pemahaman terkait CSS menjadi lebih meningkat dibanding sebelumnya.
+
+**Thoughts:** Hari ini memulai dengan baik di pagi hari, mungkin banyak terdistraksi saja.
+
+**Link to work:** -
