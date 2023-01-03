@@ -32,10 +32,18 @@
 
 **Link to work:** -
 
-### Day 3: january 2, 2023 
+### Day 4: january 2, 2023 
 
 **Today's Progress**: Melanjutkan belajar CSS, dengan mencoba membuat Cafe Menu tutorial oleh freeCodeCamp. kali ini menyelesaikannya hingga mnejadi web utuh. Pemahaman terkait CSS menjadi lebih meningkat dibanding sebelumnya.
 
 **Thoughts:** Hari ini memulai dengan baik di pagi hari, mungkin banyak terdistraksi saja.
+
+**Link to work:** -
+
+### Day 5: january 3, 2023 
+
+**Today's Progress**: Belajar tentang warna pada CSS, mulai dari RGB, HSL, HEX dan bagaimana cara menerapkannya pada HTML.
+
+**Thoughts:** Mood hari ini kurang bagus, tapi sangat bersyukur bisa menyelesaikan tantangan hari ini.
 
 **Link to work:** -
