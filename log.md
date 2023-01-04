@@ -47,3 +47,12 @@
 **Thoughts:** Mood hari ini kurang bagus, tapi sangat bersyukur bisa menyelesaikan tantangan hari ini.
 
 **Link to work:** -
+
+### Day 6: january 4, 2023 
+
+**Today's Progress**: Belajar bagaimana cara membuat form registrasi dengan menggunakan HTML dan CSS secara sederhana.
+
+**Thoughts:** Agak terlambat memulai belajarnya, tapi bersyukur masih sempat untuk belajar walaupun tidak sampai selesai.
+
+**Link to work:** -
+
