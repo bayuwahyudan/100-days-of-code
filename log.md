@@ -56,3 +56,10 @@
 
 **Link to work:** -
 
+### Day 7: january 5, 2023 
+
+**Today's Progress**: Melanjutkan Belajar bagaimana cara membuat form registrasi dengan menggunakan HTML dan CSS secara sederhana.
+
+**Thoughts:** sangat terlambat belajar hari ini, sangat sibuk dengan hal lain. Harus lebih baik.
+
+**Link to work:** -
