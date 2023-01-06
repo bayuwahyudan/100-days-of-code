@@ -63,3 +63,11 @@
 **Thoughts:** sangat terlambat belajar hari ini, sangat sibuk dengan hal lain. Harus lebih baik.
 
 **Link to work:** -
+
+### Day 8: january 6, 2023 
+
+**Today's Progress**: menyelesaikan proyek membuat halaman form registrasi dengan HTML dan CSS dasar.
+
+**Thoughts:** Belajar lebih awal membuat belajar jadi lebih enjoy dan bisa menyelesaikan dengan baik hari ini, sangat senang.
+
+**Link to work:** -
