@@ -71,3 +71,11 @@
 **Thoughts:** Belajar lebih awal membuat belajar jadi lebih enjoy dan bisa menyelesaikan dengan baik hari ini, sangat senang.
 
 **Link to work:** -
+
+### Day 9: january 7, 2023 
+
+**Today's Progress**: membuat survey form, masih setengah jalan.
+
+**Thoughts:** not my best productive day, weekend vibe.
+
+**Link to work:** -
