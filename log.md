@@ -79,3 +79,11 @@
 **Thoughts:** not my best productive day, weekend vibe.
 
 **Link to work:** -
+
+### Day 10: january 8, 2023 
+
+**Today's Progress**: lanjut membuat survey form, tapi belum selesai.
+
+**Thoughts:** not my best productive day, weekend vibe.
+
+**Link to work:** -
