@@ -87,3 +87,11 @@
 **Thoughts:** not my best productive day, weekend vibe.
 
 **Link to work:** -
+
+### Day 11: january 9, 2023 
+
+**Today's Progress**: mulai belajar membuat halamana website pribadi
+
+**Thoughts:** fokus terpecah, bukan hari terbaikku
+
+**Link to work:** -
