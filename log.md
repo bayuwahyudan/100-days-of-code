@@ -95,3 +95,11 @@
 **Thoughts:** fokus terpecah, bukan hari terbaikku
 
 **Link to work:** -
+
+### Day 12: january 10, 2023 
+
+**Today's Progress**: menyelesaikan 1 tugas untuk mendapatkan sertifikasi di freeCodeCamp
+
+**Thoughts:** mood sedang baik, tapi masih belum bisa fokus secara menyeluruh
+
+**Link to work:** -
