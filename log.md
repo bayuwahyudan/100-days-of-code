@@ -103,3 +103,11 @@
 **Thoughts:** mood sedang baik, tapi masih belum bisa fokus secara menyeluruh
 
 **Link to work:** -
+
+### Day 13: january 11, 2023 
+
+**Today's Progress**: menyelesaikan Learn box model by creating a Rothko painting on freeCodeCamp
+
+**Thoughts:** akhirnya menyelesaikan course dalam satu hari lagi, lumayan oke lah
+
+**Link to work:** -
