@@ -111,3 +111,11 @@
 **Thoughts:** akhirnya menyelesaikan course dalam satu hari lagi, lumayan oke lah
 
 **Link to work:** -
+
+### Day 14: january 12, 2023 
+
+**Today's Progress**: menyelesaikan Learn flexbox dengan membuat galeri foto kucing
+
+**Thoughts:** device baru semangat baru, lebih mudah untuk belajar programming
+
+**Link to work:** -
