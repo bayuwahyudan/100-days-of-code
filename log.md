@@ -119,3 +119,11 @@
 **Thoughts:** device baru semangat baru, lebih mudah untuk belajar programming
 
 **Link to work:** -
+
+### Day 15: january 13, 2023 
+
+**Today's Progress**: menyelesaikan Learn Typography by Building a Nutrition Label di freecodecamp dengan menggunakan html dan css.
+
+**Thoughts:** agak telat belajarnya, tapi mampu menyelesaikan satu course dan rasanya sangatlah luar biasa. semoga bisa terus konsisten berprogress.
+
+**Link to work:** -
