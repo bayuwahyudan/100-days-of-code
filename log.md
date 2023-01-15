@@ -127,3 +127,11 @@
 **Thoughts:** agak telat belajarnya, tapi mampu menyelesaikan satu course dan rasanya sangatlah luar biasa. semoga bisa terus konsisten berprogress.
 
 **Link to work:** -
+
+### Day 16: january 14, 2023 
+
+**Today's Progress**: menyelesaikan Learn Accessibility by Building a Quiz di freecodecamp dengan menggunakan html dan css.
+
+**Thoughts:** Semakin menyenangkan untuk belajar dasar web programming, mungkin perlu banyak latihan lagi. Harusnya diupdate kemarin, tapi gapapa semoga tidak terulang lagi untuk lupa update progress.
+
+**Link to work:** -
