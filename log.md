@@ -135,3 +135,11 @@
 **Thoughts:** Semakin menyenangkan untuk belajar dasar web programming, mungkin perlu banyak latihan lagi. Harusnya diupdate kemarin, tapi gapapa semoga tidak terulang lagi untuk lupa update progress.
 
 **Link to work:** -
+
+### Day 17: january 15, 2023 
+
+**Today's Progress**: mulai membuat tribute page untuk sebagai tugas untuk mendapat sertifikat.
+
+**Thoughts:** tidak banyak belajar hari ini karena mood sedang tidak stabil dan juga banyak menghabiskan waktu untuk istirahat dan keluar rumah.
+
+**Link to work:** -
