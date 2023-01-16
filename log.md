@@ -143,3 +143,11 @@
 **Thoughts:** tidak banyak belajar hari ini karena mood sedang tidak stabil dan juga banyak menghabiskan waktu untuk istirahat dan keluar rumah.
 
 **Link to work:** -
+
+### Day 18: january 16, 2023 
+
+**Today's Progress**: hari ini belajar lebih lanjut tentang CSS Pesudo Selector dengan mencoba membuat Balance Sheet.
+
+**Thoughts:** Mencoba lebih konsisten hari ini, walaupun belum maksimal. Namun, masih bisa berprogress.
+
+**Link to work:** -
