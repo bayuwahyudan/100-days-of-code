@@ -151,3 +151,11 @@
 **Thoughts:** Mencoba lebih konsisten hari ini, walaupun belum maksimal. Namun, masih bisa berprogress.
 
 **Link to work:** -
+
+### Day 19: january 17, 2023 
+
+**Today's Progress**: hari ini menyelesaikan CSS Pesudo Selector dengan mencoba membuat Balance Sheet di freecodecamp.
+
+**Thoughts:** Senang dengan progress yang telah dijalani sejauh ini. Merasa semakin bersemnagat untuk terus konsisten tiap harinya.
+
+**Link to work:** -
