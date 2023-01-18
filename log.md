@@ -159,3 +159,11 @@
 **Thoughts:** Senang dengan progress yang telah dijalani sejauh ini. Merasa semakin bersemnagat untuk terus konsisten tiap harinya.
 
 **Link to work:** -
+
+### Day 20: january 18, 2023 
+
+**Today's Progress**: Hari ini mereview latihan yang telah dipelajari belakangan ini selama 19 hari ke belakang.
+
+**Thoughts:** bukan hari produktifku, mencoba untuk terus konsisten.
+
+**Link to work:** -
