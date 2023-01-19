@@ -167,3 +167,11 @@
 **Thoughts:** bukan hari produktifku, mencoba untuk terus konsisten.
 
 **Link to work:** -
+
+### Day 21: january 19, 2023 
+
+**Today's Progress**: Hari ini belajar tentang responsive web design.
+
+**Thoughts:** lumayan oke hari ini, sedikit kemalaman but okey.
+
+**Link to work:** -
