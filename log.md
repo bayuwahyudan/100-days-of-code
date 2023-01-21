@@ -175,3 +175,11 @@
 **Thoughts:** lumayan oke hari ini, sedikit kemalaman but okey.
 
 **Link to work:** -
+
+### Day 22: january 20, 2023 
+
+**Today's Progress**: Hari ini belajar tentang css dengan baca beberapa artikel terkait.
+
+**Thoughts:** lumayan oke hari ini, agak telat untuk update karena kondisi kesehatan yang kurang baik.
+
+**Link to work:** -
